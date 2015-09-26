@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+android:id="@+id/widget27"
+android:layout_width="fill_parent"
+android:layout_height="fill_parent"
+android:orientation="vertical"
+xmlns:android="http://schemas.android.com/apk/res/android"
+>
+<TextView
+android:id="@+id/widget29"
+android:layout_width="wrap_content"
+android:layout_height="wrap_content"
+android:text="Layout XML:"
+>
+</TextView>
+<EditText
+android:id="@+id/text"
+android:layout_width="fill_parent"
+android:layout_height="400dp"
+>
+</EditText>
+<Button
+android:id="@+id/layout"
+android:layout_width="wrap_content"
+android:layout_height="wrap_content"
+android:text="Preview Layout"
+>
+</Button>
+
+    <Button
+        android:id="@+id/clean"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="clean text"
+        >
+    </Button>
+
+</LinearLayout>
