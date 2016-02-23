@@ -1,8 +1,11 @@
-##Este es un issue
+
+### Template issue error report
 
 
+#### Nombre pantalla
+
+* Home
+* Contactos
+* 
 
 
-### de los mejores
-
-larafneapfáfma'wada
